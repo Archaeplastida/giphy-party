@@ -1,0 +1,31 @@
+body{
+    background-color:black;
+}
+
+.gif{
+    max-height:300px;
+    min-height:300px;
+}
+h1{
+    color:white;
+    display:flex;
+    justify-content:center;
+    letter-spacing:15px;
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+form{
+    display:flex;
+    justify-content:center;
+    margin-bottom:50px;
+}
+
+#search, #remove{
+    background-color:black;
+    color:white;
+    font-family:monospace;
+}
+
+form input{
+    font-family:monospace;
+}
